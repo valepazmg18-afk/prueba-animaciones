@@ -85,7 +85,7 @@ main{
 }
 
 header{
-    background-image: url(https://chiruca.com/wp-content/uploads/2024/05/240606_mejores_senderos.jpg);
+    background-image: url(https://img.freepik.com/foto-gratis/magico-paisaje-invernal_23-2151911759.jpg?semt=ais_hybrid&w=740&q=80);
     background-repeat: no-repeat;
     background-size: cover;
     display: flex;
@@ -97,7 +97,7 @@ header{
     font-optical-sizing: auto;
     font-weight: 400;
     font-style: oblique;
-    color: aliceblue;
+    color: rgb(34, 52, 68);
     grid-area: header;
 }
 
